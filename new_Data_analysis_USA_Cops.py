@@ -528,6 +528,8 @@ cause['Cummulative _percent_%']=lis
 cause
 
 
+# Power bi report link:-https://app.powerbi.com/links/9w8mZDkzzi?ctid=aa6758ec-eb21-4246-9438-3a5213775e06&pbi_source=linkShare
+
 # # Thank you
 
 # In[ ]:
